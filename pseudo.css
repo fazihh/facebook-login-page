@@ -1,0 +1,8 @@
+a{
+    background-color: bisque;
+    text-align: center;
+}
+a.hover{
+    font-size: larger;
+    color: blue;
+}

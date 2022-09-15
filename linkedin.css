@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+.main{
+    margin-top: 35px;
+    margin-left: 600px;
+    margin-right: 500px;
+    background-color: beige;
+    border: black;
+    padding: 20px;
+}

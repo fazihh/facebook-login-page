@@ -1,0 +1,17 @@
+.header
+{
+    height: 100%;
+    width: 100%px;
+}
+.navigation{
+    position:absolute;
+    top: 40px;
+    left: 60px;
+    text-decoration: none;
+    font-size: large;
+    color: black;
+    text-decoration-style: none;
+}
+.a{
+    text-decoration: none;
+}

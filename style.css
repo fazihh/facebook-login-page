@@ -1,0 +1,14 @@
+/* linking using external selectror */
+
+/* 1  using tag name */
+body{
+
+background-color: brown;
+text-align: justify;
+
+}
+h3{
+margin: solid black;
+padding: 30px;
+
+}
